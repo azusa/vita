@@ -156,5 +156,5 @@ DevOpsに関する関連領域を専門としています。
 1. 2011/8 応用情報技術者試験 合格
 2. 2017/10 情報処理安全確保支援士(登録番号 第004514号)
 3. 2017/11 [Atlassian Certified System Administrator](https://www.certmetrics.com/atlassian/public/badge.aspx?i=5&t=c&d=2017-11-13&ci=AT00132438)
-4. 2018/6 Atlassian Certified Jira Project Administrator
+4. 2018/6 [Atlassian Certified in Jira Project Administration](https://www.certmetrics.com/atlassian/public/badge.aspx?i=10&t=c&d=2018-06-14&ci=AT00132438)
 
