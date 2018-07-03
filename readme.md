@@ -41,14 +41,14 @@ DevOpsに関する関連領域を専門としています。
 
 ### 出版
 
-1. 2018/6 「Mackerelではじめるお手軽Webサービス監視」（単著） インプレスR&D[https://nextpublishing.jp/book/9802.html](https://nextpublishing.jp/book/9802.html)
+1. 2018/6 「Mackerelではじめるお手軽Webサービス監視」（単著） インプレスR&D [https://nextpublishing.jp/book/9802.html](https://nextpublishing.jp/book/9802.html)
 2. 2018/4 すいーとみゅーじっく vol.5 「Mackerelではじめるお手軽サーバー監視」 
-3. 2018/4 技術同人誌を書こう！　アウトプットのススメ (共著) 親方Project編 インプレスR&） [https://nextpublishing.jp/book/9625.html](https://nextpublishing.jp/book/9625.html)
+3. 2018/4 技術同人誌を書こう！　アウトプットのススメ (共著) 親方Project編 インプレスR&D [https://nextpublishing.jp/book/9625.html](https://nextpublishing.jp/book/9625.html)
 4. 2017/10 すいーとみゅーじっく vol.4 「DevOps再考」・「GebとSpockではじめるエンドツーエンドテスト」
 5. 2017/8  すいーとみゅーじっく vol.3  「TDDの発展史とその理論的背景」・「よりよいブランチ管理のために(再録)」
 6. 2017/4  すいーとみゅーじっく vol.2 よりよいブランチ管理のために
 7. 2017/4 すいーとみゅーじっく vol.1 TDDってなんだ？
-8. 2015/4 「[アジャイルの魂2015]」（寄稿） アジャイルジャパン2015実行委員会編 マナスリンク [http://shop.manaslink.com/items/1817650](http://shop.manaslink.com/items/1817650)
+8. 2015/4 「アジャイルの魂2015」（寄稿） アジャイルジャパン2015実行委員会編 マナスリンク [http://shop.manaslink.com/items/1817650](http://shop.manaslink.com/items/1817650)
 
 
 ### 講演(2014年以降)
@@ -154,7 +154,7 @@ DevOpsに関する関連領域を専門としています。
 ### 資格
 
 1. 2011/8 応用情報技術者試験 合格
-2. 2017/10 情報処理安全確保支援士(登録番号 第004514号)
+2. 2017/10 情報処理安全確保支援士([登録番号 第004514号](https://riss.ipa.go.jp/r?r=004514))
 3. 2017/11 [Atlassian Certified System Administrator](https://www.certmetrics.com/atlassian/public/badge.aspx?i=5&t=c&d=2017-11-13&ci=AT00132438)
 4. 2018/6 [Atlassian Certified in Jira Project Administration](https://www.certmetrics.com/atlassian/public/badge.aspx?i=10&t=c&d=2018-06-14&ci=AT00132438)
 
