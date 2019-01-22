@@ -151,10 +151,11 @@ DevOpsに関する関連領域を専門としています。
 31. 印刷工場向け業務システムダウンサイジング(2002/10～2003/9)
 32. イベントシステム予約決済システム携帯電話対応(2002/5～2002/9)
 
-### 資格
+### 資格・表彰
 
 1. 2011/8 応用情報技術者試験 合格
 2. 2017/10 情報処理安全確保支援士([登録番号 第004514号](https://riss.ipa.go.jp/r?r=004514))
 3. 2017/11 [Atlassian Certified System Administrator](https://www.certmetrics.com/atlassian/public/badge.aspx?i=5&t=c&d=2017-11-13&ci=AT00132438)
 4. 2018/6 [Atlassian Certified in Jira Project Administration](https://www.certmetrics.com/atlassian/public/badge.aspx?i=10&t=c&d=2018-06-14&ci=AT00132438)
+5. 2019/9 [Microsoft MVP for Developer Technologies](https://mvp.microsoft.com/en-us/PublicProfile/5003234?fullName=Hiroyuki%20Onaka)
 
